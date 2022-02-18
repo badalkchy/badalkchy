@@ -28,9 +28,11 @@
 
 <br>
 
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=badalkchy&layout=compact&langs_count=10&theme=tokyonight&title_color=2895BC&hide=VHDL,Stata&custom_title=Most recently used languages" alt="Most recently used languages">
+<p align="Center">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=badalkchy&layout=compact&langs_count=10&theme=tokyonight&title_color=2895BC&hide=VHDL,Stata&custom_title=Most recently used languages" alt="Most recently used languages">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=badalkchy&hide=issues&show_icons=true&theme=tokyonight&hideborder=true&title_color=2895BC&icon_color=FE0000&include_all_commits=true" alt="GitHub stats">
-    
+</p>
+
  <img src="https://github.com/h-ssiqueira/h-ssiqueira/blob/output/github-contribution-grid-snake.svg" alt="Snake animation">
 
 <!--
