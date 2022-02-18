@@ -1,6 +1,6 @@
 <h1 align = "Center" >Hello There 👋 </h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%230BB10E&lines=Hi+I+am+web+developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2335B900&lines=%7B+Hi+Welcome+to+developer+profile+%E2%9C%94)](https://git.io/typing-svg)
 
 <p align="Left"> <img src="https://komarev.com/ghpvc/?username=badalkchy&style=plastic&color=orange&label=PROFILE+VIEWS" alt="badalkchy" /> </p>
 
